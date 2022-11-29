@@ -1,4 +1,4 @@
-[Github Page](https://pixann.github.io/public/index.html).
+[Github Pages](https://pixann.github.io/public/index.html).
 
 # Getting Started with Create React App
 
